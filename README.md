@@ -1,11 +1,6 @@
-<!--START_SECTION:waka-->
+Hello there, I’m Azis.
 
-```txt
-TypeScript        156 hrs 48 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.72 %
-C                 46 hrs 58 mins  ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.19 %
-Lua               26 hrs 59 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.73 %
-Rust              12 hrs 43 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.11 %
-JSON              10 hrs 17 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.33 %
-```
+I enjoy exploring programming concepts and building things—from *web applications* to *system-level projects*, Most of my work revolves around *TypeScript, Node.js, React*, and *Svelte* on the web side. On the lower level, I like *experimenting with Rust*, and sometimes *C++* when the mood calls for it. I also enjoy working with *documents and typesetting*, and *Typst* has become my `go-to` tool for that. It feels clean, modern, and makes writing structured documents an enjoyable process
 
-<!--END_SECTION:waka-->
+
+For me, coding is about **curiosity** and creating something useful, while also having _**fun learning**_ along the way.
